@@ -4,10 +4,6 @@ Basic Statistics is a Java-based implementation for computing statistics on a se
 This implementation is intended to be used in software engineering courses as
 a subject software system.
 
-changed README.md 
-test
-hello
-
 Basic Statistics uses the Apache Ant build system. **Make sure that you have [Ant](https://ant.apache.org) installed.**
 
 #### How to build Basic Statistics and run its tests from the terminal:
