@@ -1,6 +1,11 @@
 public class MinMaxCalculation {
 
-    // Function to find the minimum value in an array
+    /**
+     * 
+     * @param arr input from the user
+     * @return minumum value
+     * @description function to calculate minimum of an array
+     */
     public static int findMin(int[] arr) {
         int min = Integer.MAX_VALUE;
         for (int num : arr) {
@@ -11,7 +16,12 @@ public class MinMaxCalculation {
         return min;
     }
 
-    // Function to find the maximum value in an array
+    /**
+     * 
+     * @param arr input from the user
+     * @return minumum value
+     * @description function to calculate maximum of an array
+     */
     public static int findMax(int[] arr) {
         int max = Integer.MIN_VALUE;
         for (int num : arr) {
